@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 部件·少：水变少了（小小的水滴 + 一道越来越少的长撇） -->
+  <!-- 竖钩：一竖（像一粒立着的水滴） -->
+  <path d="M 100 26 Q 92 70 100 112" fill="none" stroke="#3A3A3A" stroke-width="9" stroke-linecap="round"/>
+  <!-- 左点：小水滴 -->
+  <path d="M 60 84 Q 74 104 60 116 Q 46 104 60 84 Z" fill="#7EC4EA" stroke="#3A3A3A" stroke-width="4"/>
+  <!-- 右点：小水滴（更小——水越来越少了） -->
+  <path d="M 142 76 Q 152 92 142 102 Q 132 92 142 76 Z" fill="#7EC4EA" stroke="#3A3A3A" stroke-width="4"/>
+  <!-- 长撇：水退下去流走的那一道 -->
+  <path d="M 96 128 Q 70 158 34 180" fill="none" stroke="#E8913A" stroke-width="10" stroke-linecap="round"/>
+</svg>

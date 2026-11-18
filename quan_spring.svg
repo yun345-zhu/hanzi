@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 泉·第一幕·实物：大山脚下，岩石缝里冒出水 -->
+  <!-- 山体 -->
+  <path d="M 0 80 L 30 30 L 60 60 L 100 20 L 140 55 L 170 35 L 200 70 L 200 200 L 0 200 Z" fill="#8CC66A" stroke="#3A3A3A" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- 岩石缝（泉眼） -->
+  <ellipse cx="100" cy="82" rx="22" ry="14" fill="#5A4A3A" stroke="#3A3A3A" stroke-width="3"/>
+  <ellipse cx="100" cy="80" rx="14" ry="8" fill="#3A2A1A"/>
+  <!-- 水从泉眼涌出 -->
+  <path d="M 88 92 Q 82 120 90 150 Q 96 170 86 190" fill="none" stroke="#4FA3D8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 88 92 Q 82 120 90 150 Q 96 170 86 190" fill="none" stroke="#3A3A3A" stroke-width="18" stroke-linecap="round" opacity="0.1"/>
+  <!-- 水花 -->
+  <g stroke="#3A3A3A" stroke-width="2.5">
+    <circle cx="76" cy="98" r="6" fill="#7EC4EA"/>
+    <circle cx="112" cy="108" r="5" fill="#7EC4EA"/>
+    <circle cx="72" cy="130" r="6" fill="#7EC4EA"/>
+    <circle cx="114" cy="146" r="5" fill="#7EC4EA"/>
+  </g>
+  <!-- 水面波纹 -->
+  <path d="M 78 172 q 10 5 20 0 M 108 180 q 10 5 20 0" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" opacity="0.8"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 河·第一幕·实物：弯弯曲曲的河（黄河），有垂柳和鸭子 -->
+  <!-- 后岸 -->
+  <path d="M 0 44 Q 50 30 100 44 T 200 40 L 200 78 Q 150 66 100 76 T 0 72 Z" fill="#8CC66A" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 河流主体：蜿蜒 -->
+  <path d="M 58 30 Q 28 70 76 100 Q 124 130 88 158 Q 70 172 84 190 L 136 190 Q 116 168 138 146 Q 166 118 116 96 Q 70 74 112 44 Q 132 30 122 12 L 78 12 Q 88 26 58 30 Z" fill="#4FA3D8" stroke="#3A3A3A" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- 垂柳（左边） -->
+  <line x1="30" y1="44" x2="30" y2="62" stroke="#3A3A3A" stroke-width="3"/>
+  <path d="M22 60 Q20 76 26 88 M30 60 Q30 78 34 90 M38 60 Q40 76 34 88" fill="none" stroke="#6FAE4A" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- 小黄鸭 -->
+  <ellipse cx="104" cy="86" rx="12" ry="8" fill="#FFD93C" stroke="#3A3A3A" stroke-width="2.5"/>
+  <circle cx="114" cy="78" r="6" fill="#FFD93C" stroke="#3A3A3A" stroke-width="2.5"/>
+  <path d="M120 78 L124 76 L120 80" fill="#E8913A" stroke="#3A3A3A" stroke-width="1.5"/>
+  <circle cx="112" cy="76" r="1.5" fill="#3A3A3A"/>
+  <!-- 水面波纹 -->
+  <path d="M 78 60 q 12 6 24 0 M 96 118 q 12 6 24 0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <!-- 前岸 -->
+  <path d="M 0 150 Q 55 138 105 152 T 200 148 L 200 200 L 0 200 Z" fill="#F5D98A" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+</svg>

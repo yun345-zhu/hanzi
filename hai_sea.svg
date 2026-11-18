@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 海·第一幕·实物：最大最大的水，看不到边，有红色小帆船 -->
+  <!-- 天空 -->
+  <rect x="0" y="0" width="200" height="60" fill="#B4DCF0"/>
+  <!-- 远处地平线 -->
+  <path d="M 0 58 L 200 58" stroke="#3A3A3A" stroke-width="2" opacity="0.3"/>
+  <!-- 海面（占大部分画面，无边无际） -->
+  <path d="M 0 56 Q 50 52 100 56 T 200 54 L 200 200 L 0 200 Z" fill="#4FA3D8" stroke="#3A3A3A" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- 大浪 -->
+  <path d="M 10 78 q 16 8 32 0 M 70 72 q 16 8 32 0 M 130 80 q 16 8 32 0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <path d="M 0 108 q 16 8 32 0 M 60 102 q 16 8 32 0 M 120 110 q 16 8 32 0 M 170 104 q 16 8 32 0" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M 20 142 q 16 8 32 0 M 90 148 q 16 8 32 0 M 150 140 q 16 8 32 0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <!-- 红色小帆船 -->
+  <path d="M 70 96 Q 82 108 94 96 Z" fill="#FFF6E3" stroke="#3A3A3A" stroke-width="2"/>
+  <path d="M 82 96 L 82 78 L 92 90 Z" fill="#FF7B6B" stroke="#3A3A3A" stroke-width="2"/>
+  <line x1="82" y1="96" x2="82" y2="74" stroke="#3A3A3A" stroke-width="2"/>
+  <!-- 海鸥 -->
+  <path d="M 40 28 q 6 -6 12 0 q 6 -6 12 0" fill="none" stroke="#3A3A3A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 140 22 q 5 -5 10 0 q 5 -5 10 0" fill="none" stroke="#3A3A3A" stroke-width="2" stroke-linecap="round"/>
+</svg>

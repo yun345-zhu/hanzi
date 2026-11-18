@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 泉·第二幕·过渡帧：泉收拢了——泉眼在上，水流在下（介于画与字之间） -->
+  <!-- 泉眼（菱形，像甲骨文的泉眼） -->
+  <path d="M100 26 L128 54 L100 82 L72 54 Z" fill="#4FA3D8" stroke="#3A3A3A" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="78" y1="54" x2="122" y2="54" stroke="#3A3A3A" stroke-width="4" stroke-linecap="round"/>
+  <!-- 水流（弯弯的主线） -->
+  <path d="M100 84 Q86 114 94 144 Q100 164 90 186" fill="none" stroke="#4FA3D8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M100 84 Q86 114 94 144 Q100 164 90 186" fill="none" stroke="#3A3A3A" stroke-width="18" stroke-linecap="round" opacity="0.1"/>
+  <!-- 水花点 -->
+  <g stroke="#3A3A3A" stroke-width="2.5">
+    <circle cx="74" cy="112" r="8" fill="#7EC4EA"/>
+    <circle cx="120" cy="128" r="7" fill="#7EC4EA"/>
+    <circle cx="72" cy="156" r="7" fill="#7EC4EA"/>
+  </g>
+  <!-- 虚线提示：山和岩石的轮廓还在 -->
+  <path d="M40 60 L60 30 L80 50" fill="none" stroke="#8CC66A" stroke-width="3" stroke-dasharray="6,6" opacity="0.5"/>
+  <path d="M120 50 L140 30 L160 55" fill="none" stroke="#8CC66A" stroke-width="3" stroke-dasharray="6,6" opacity="0.5"/>
+</svg>

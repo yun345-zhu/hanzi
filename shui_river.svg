@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 第一幕·实物：绘本里的一条大河（两岸绿地 + 蜿蜒蓝河 + 水花） -->
+  <!-- 后岸 -->
+  <path d="M 0 44 Q 50 30 100 44 T 200 40 L 200 78 Q 150 66 100 76 T 0 72 Z" fill="#8CC66A" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 河流主体：从上到下蜿蜒 -->
+  <path d="M 62 30 Q 30 70 78 100 Q 126 130 92 158 Q 74 172 88 190 L 132 190 Q 112 168 134 146 Q 162 118 112 96 Q 66 74 108 44 Q 128 30 118 12 L 78 12 Q 88 26 62 30 Z" fill="#4FA3D8" stroke="#3A3A3A" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- 前岸沙滩 -->
+  <path d="M 0 150 Q 55 138 105 152 T 200 148 L 200 200 L 0 200 Z" fill="#F5D98A" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 水面波纹 -->
+  <path d="M 78 60 q 12 6 24 0 M 96 118 q 12 6 24 0 M 82 172 q 12 6 24 0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <!-- 水花点 -->
+  <g stroke="#3A3A3A" stroke-width="2.5">
+    <circle cx="52" cy="92" r="7" fill="#7EC4EA"/>
+    <circle cx="150" cy="70" r="6" fill="#7EC4EA"/>
+    <circle cx="60" cy="140" r="6" fill="#7EC4EA"/>
+    <circle cx="152" cy="128" r="5.5" fill="#7EC4EA"/>
+  </g>
+</svg>

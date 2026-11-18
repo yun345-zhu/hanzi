@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 部件·胡：古（十字+口）+ 月（弯月形） -->
+  <!-- 古：上横 -->
+  <path d="M40 30 Q70 24 100 30" fill="none" stroke="#3A3A3A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M40 30 Q70 24 100 30" fill="none" stroke="#E8913A" stroke-width="5" stroke-linecap="round"/>
+  <!-- 古：竖 -->
+  <path d="M70 30 Q68 48 72 66" fill="none" stroke="#3A3A3A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M70 30 Q68 48 72 66" fill="none" stroke="#E8913A" stroke-width="5" stroke-linecap="round"/>
+  <!-- 古：口 -->
+  <rect x="48" y="66" width="46" height="34" rx="5" fill="#FFF6E3" stroke="#3A3A3A" stroke-width="5"/>
+  <!-- 月：弯月/肉月形 -->
+  <path d="M118 30 Q110 30 110 40 L110 160 Q110 170 118 170 L160 170 Q168 170 168 160 L168 40 Q168 30 160 30" fill="none" stroke="#3A3A3A" stroke-width="6" stroke-linejoin="round"/>
+  <line x1="114" y1="64" x2="164" y2="64" stroke="#3A3A3A" stroke-width="4" stroke-linecap="round"/>
+  <line x1="114" y1="100" x2="164" y2="100" stroke="#3A3A3A" stroke-width="4" stroke-linecap="round"/>
+  <line x1="114" y1="136" x2="164" y2="136" stroke="#3A3A3A" stroke-width="4" stroke-linecap="round"/>
+  <!-- 高光 -->
+  <circle cx="62" cy="26" r="3.5" fill="#FFFFFF" opacity="0.7"/>
+</svg>

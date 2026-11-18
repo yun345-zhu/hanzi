@@ -1,0 +1,13 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 部件·可：口+曲臂（像一个人张嘴说话） -->
+  <!-- 上方曲臂 -->
+  <path d="M40 50 Q70 36 100 44 Q120 48 126 62 Q128 76 118 84" fill="none" stroke="#3A3A3A" stroke-width="11" stroke-linecap="round"/>
+  <path d="M40 50 Q70 36 100 44 Q120 48 126 62 Q128 76 118 84" fill="none" stroke="#E8913A" stroke-width="6" stroke-linecap="round"/>
+  <!-- 竖（连接臂和口） -->
+  <path d="M84 48 Q82 70 86 92" fill="none" stroke="#3A3A3A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M84 48 Q82 70 86 92" fill="none" stroke="#E8913A" stroke-width="5" stroke-linecap="round"/>
+  <!-- 口（方框） -->
+  <rect x="64" y="92" width="46" height="42" rx="6" fill="#FFF6E3" stroke="#3A3A3A" stroke-width="6"/>
+  <!-- 高光 -->
+  <circle cx="96" cy="42" r="4" fill="#FFFFFF" opacity="0.7"/>
+</svg>

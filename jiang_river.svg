@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 江·第一幕·实物：一条超大超宽的河（长江），两岸有山 -->
+  <!-- 远山 -->
+  <path d="M 0 40 L 20 18 L 40 35 L 70 15 L 100 30 L 130 18 L 160 35 L 180 20 L 200 38 L 200 60 L 0 60 Z" fill="#8CC66A" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 大江主体：又宽又壮 -->
+  <path d="M 0 58 Q 50 52 100 58 T 200 56 L 200 150 Q 150 142 100 152 T 0 148 Z" fill="#4FA3D8" stroke="#3A3A3A" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- 水面波纹（大江的浪） -->
+  <path d="M 20 76 q 14 7 28 0 M 80 84 q 14 7 28 0 M 140 74 q 14 7 28 0" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <path d="M 30 110 q 14 7 28 0 M 100 118 q 14 7 28 0 M 150 108 q 14 7 28 0" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
+  <!-- 一艘小船 -->
+  <path d="M 70 100 Q 80 112 90 100 Z" fill="#E8913A" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="80" y1="100" x2="80" y2="86" stroke="#3A3A3A" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- 前岸 -->
+  <path d="M 0 148 Q 50 140 100 152 T 200 150 L 200 200 L 0 200 Z" fill="#F5D98A" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+</svg>

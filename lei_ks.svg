@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="86" fill="#FFF6E3"/>
+  <text x="100" y="152" text-anchor="middle" font-size="150"
+        font-family="KaiTi, STKaiti, serif" fill="#3A3A3A">泪</text>
+  <rect x="152" y="156" width="26" height="26" rx="5" fill="#FF7B6B"/>
+</svg>

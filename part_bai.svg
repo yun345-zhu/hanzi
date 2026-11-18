@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 部件·白：泉眼（日形开口 + 顶上一撇，像石头缝的口） -->
+  <!-- 顶撇：石缝斜口 -->
+  <path d="M80 26 Q62 36 50 56" fill="none" stroke="#3A3A3A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M80 26 Q62 36 50 56" fill="none" stroke="#E8913A" stroke-width="6" stroke-linecap="round"/>
+  <!-- 左竖：口子左边 -->
+  <path d="M62 64 Q60 108 62 150" fill="none" stroke="#3A3A3A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M62 64 Q60 108 62 150" fill="none" stroke="#E8913A" stroke-width="6" stroke-linecap="round"/>
+  <!-- 横折：口子顶 + 右边 -->
+  <path d="M62 64 L136 64 L136 150" fill="none" stroke="#3A3A3A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 64 L136 64 L136 150" fill="none" stroke="#E8913A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 中横：口子中间 -->
+  <path d="M64 106 L134 106" fill="none" stroke="#3A3A3A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M64 106 L134 106" fill="none" stroke="#E8913A" stroke-width="6" stroke-linecap="round"/>
+  <!-- 底横：口子合上 -->
+  <path d="M56 152 L144 152" fill="none" stroke="#3A3A3A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M56 152 L144 152" fill="none" stroke="#E8913A" stroke-width="6" stroke-linecap="round"/>
+  <!-- 高光 -->
+  <circle cx="74" cy="52" r="4" fill="#FFFFFF" opacity="0.7"/>
+</svg>
