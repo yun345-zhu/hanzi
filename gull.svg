@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 56">
+  <!-- 海鸥：白色粗弧线双翼 + 深灰描边（天空浅蓝上的剪影） -->
+  <path d="M8,38 C22,14 44,18 60,32 C76,18 98,14 112,38" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M8,38 C22,14 44,18 60,32 C76,18 98,14 112,38" fill="none" stroke="#3A3A3A" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
